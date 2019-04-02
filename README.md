@@ -1,6 +1,6 @@
 "# flask-session-basic" 
 
-#run:
+#RUN:
 
 ```docker-compose up --build```
 
