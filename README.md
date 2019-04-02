@@ -6,4 +6,5 @@
 
 - http://localhost:5000
 - type password = 123456
+- localhost-> ip address
 
